@@ -1,2 +1,3 @@
 Estoy aprendiendo git 
 Estoy modificando el archivo
+Esta linea es de la rama1
